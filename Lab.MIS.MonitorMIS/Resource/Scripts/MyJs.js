@@ -488,6 +488,8 @@ $(document).ready(function () {
 
     //tree详情管理
     $("#showAllDevice").click(function () {
+        //点击“浏览所有监测点信息时”当数据框不可编辑
+        $("#TreeDeviceInfoForm input, #TreeDeviceInfoForm select").attr("disabled",true); 
         OpenTreeDeviceWindow();
     });
 
@@ -1954,6 +1956,7 @@ function AddDataToTree(backData) {
         onNodeSelected: function (event, data) {
             //data["tags"]  选中的ID
             if (data["tags"] >= 0) {
+                $("#TreeDeviceInfoForm input, #TreeDeviceInfoForm select").attr("disabled", false);
                 var data_info = [];
                 $.ajax({
                     url: "/Home/GetOneDevice",
@@ -2662,6 +2665,7 @@ function LngLatTextChange() {
     map1Marker.setLngLat(T.LngLat(Lng, Lat));
 }
 
+//判断是否正确输入 通信流量卡    现在已经移除该监测 如果需要 就只需在name="PhoneNum" 的标签中加上onblur="IsDataLegal_of_PhoneNum(this)"
 function IsDataLegal_of_PhoneNum(tagObject) {
     //判断是否是正整数
     var reg = /^1[0-9]{10}$/;

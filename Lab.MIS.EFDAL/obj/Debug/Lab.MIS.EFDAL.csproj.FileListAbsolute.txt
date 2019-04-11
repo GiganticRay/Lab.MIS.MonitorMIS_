@@ -117,3 +117,16 @@ E:\大学\泥石流滑坡预警系统\2018-07-08 12.25\泥石流滑坡预警系�
 E:\大学\泥石流滑坡预警系统\2018-07-08 12.25\泥石流滑坡预警系统\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.csprojResolveAssemblyReference.cache
 E:\大学\泥石流滑坡预警系统\2018-07-08 12.25\泥石流滑坡预警系统\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.dll
 E:\大学\泥石流滑坡预警系统\2018-07-08 12.25\泥石流滑坡预警系统\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.pdb
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.EFDAL.dll.config
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.EFDAL.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.EFDAL.pdb
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\EntityFramework.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.IDAL.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.Model.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.IDAL.pdb
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\Lab.MIS.Model.pdb
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\EntityFramework.xml
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.csprojResolveAssemblyReference.cache
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.dll
+E:\大学\泥石流滑坡预警系统\coding\Lab.MIS.EFDAL\obj\Debug\Lab.MIS.EFDAL.pdb
